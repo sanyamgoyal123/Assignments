@@ -1,0 +1,6 @@
+1)git init
+2)git clone /path/to/repository - Create a working copy of a local repository
+3)git add <filename> - Add one or more files to staging (index)
+4)git commit -m "Commit message" - Commit changes to head (but not yet to the remote repository)
+5)git push origin master  - Send changes to the master branch of your remote repository
+6)git status - List the files you've changed and those you still need to add or commit
